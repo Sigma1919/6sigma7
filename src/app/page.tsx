@@ -20,9 +20,12 @@ export default function HomePage() {
     }
     </div>
     <Link href="layer02">
-        <div className="btn bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">
+        <div className="btn bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded shadow-xl/30">
           Yardy
         </div>
+
+
+        
     </Link>
 		</main>
 	); 
