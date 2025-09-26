@@ -24,4 +24,3 @@ export default function LayoutPage02({
   );
 }
 
-<div className="shadow-xl/30 ...">Sigma</div>
